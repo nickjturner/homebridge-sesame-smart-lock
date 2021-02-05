@@ -1,0 +1,4 @@
+.vscode
+.homebridge
+node_modules
+dist
